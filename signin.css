@@ -1,5 +1,5 @@
 body {
-  background-image: url(tree-3358468_960_720.webp);
+  background-image: url(image/tree-3358468_960_720.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -38,7 +38,7 @@ div {
   width: 230px;
   height: 31px;
 }
-.log input {
+.button input {
   border-radius: 25px;
   padding: 2px;
   margin-left: 133px;
